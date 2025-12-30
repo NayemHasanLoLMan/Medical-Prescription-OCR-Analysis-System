@@ -990,6 +990,6 @@ This project is licensed under the MIT License. Please take a look at the [LICEN
 
  Star this repository if you find it helpful!
 
-**⚠️ For educational purposes only - Not for clinical use without professional validation**
+** For educational purposes only - Not for clinical use without professional validation**
 
 </div>
